@@ -1,4 +1,4 @@
-# CS Unity_Web_App
+# CS Unity Web App
 
 Semantic Website to bring together Computer Science education resources from YouTube, DBPedia and DBLP bibliography together in one place in a clean interface.
 
